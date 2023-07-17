@@ -1,6 +1,17 @@
 # challenge-data-analysis
+my steps of doing the project
+1.Establish an environment called modelenv
+2.Data cleaning
+  standard of cleaning the dataset:
+    -No duplicates
+    - No NaNs
+    - No text data
+  3.Data spliting
+  
+
  Pimp the README file:
    - Description
+  
 
    - Installation
 
